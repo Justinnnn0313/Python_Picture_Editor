@@ -11,8 +11,3 @@ A **Python-based image processing toolkit** that provides various functionalitie
 -  **Rectangle Selection**: Select a specific rectangular area.  
 -  **Magic Wand Selection**: Select similar color regions based on a threshold.  
 -  **Load & Save Images**  
-
-## Installation  
-Make sure you have Python installed. Then, install the required libraries:  
-```bash
-pip install numpy matplotlib
